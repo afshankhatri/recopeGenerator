@@ -9,9 +9,9 @@
 
 
 
-const searchEngine = document.querySelector('#InpForSearch');
-const searchButton = document.querySelector('#searchbutton');
-const recipeDisplay = document.querySelector('.main');
+const searchEngine = document.querySelector('#InpForSearch')
+const searchButton = document.querySelector('#searchbutton')
+const recipeDisplay = document.querySelector('.main')
 const recipeCloseButton = document.querySelector('.recipeCloseBtn')
 const recipeDetailsContent = document.querySelector('.recipeDetailsContent')
 
