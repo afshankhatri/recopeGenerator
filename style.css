@@ -12,6 +12,7 @@ body ::-webkit-scrollbar-thumb{
     background-color: bisque;
     border-radius: 10px;
 }
+/* commenting for fun  */
 body ::-webkit-scrollbar-track{ /*this will give us navigation of scrol bar*/
     background-color: rgb(245, 178, 78);
 }
